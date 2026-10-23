@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-10-23
 playbook_type: "standard"
 name: "PHP2Shell Response Playbook"
 author: "jtbuchanan-tenb"
